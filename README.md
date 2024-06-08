@@ -20,7 +20,7 @@ The ETL pipeline involves the following steps:
 - Data Cleaning: Handling missing values, normalizing data, and filtering records.
 - Data Transformation: Creating new columns, aggregating data, and applying window functions.
 - Data Analysis: Running SQL queries and generating visualizations to extract insights.
-- 
+
 ## Technologies Used
 - AWS S3: For data storage.
 - Databricks: For data processing and analysis using Apache Spark.
